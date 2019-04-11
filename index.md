@@ -93,7 +93,9 @@ If possible, try for an internship during the summer in an area you might be int
 
 You can use Purdue to connect with alumni using the @GradProfCareers Twitter account. Also, you can use LinkedIn to connect to people in various fields. Purdue has access to a service for connecting students to internship opportunities called MyCCO. Free to use with your PUID. Use this before June.  
 
-Police your web presence. Google yourself and use a SEO to improve your results if needed. I used [Brand Yourself](https://brandyourself.com/)'s free options to improve my web results. Build a web presence using tools like LinkedIn, [Academia.edu](https://www.academia.edu/), About Me, or Twitter. If possible, build a personal webpage with your work and CV and link to in all your other web platforms. Police the heck out of Twitter...it's public y'all!
+Police your web presence. Google yourself and use a SEO to improve your results if needed. I used [Brand Yourself](https://brandyourself.com/)'s free options to improve my web results. Build a web presence using tools like LinkedIn, [Academia.edu](https://www.academia.edu/), About Me, or Twitter. If possible, build a personal webpage with your work and CV and link to in all your other web platforms. Police the heck out of Twitter...it's public y'all!  
+
+Get organized. Calendar the heck out of your search and use a spreadsheet to track required documnents, deadlines, follow-ups, etc.
 
 ## Resources  
 - [The Professor is In](http://theprofessorisin.com/) Includes a ton of great resources on the blog, and her book details all the elements of the job process when you’re ready.  

@@ -36,14 +36,14 @@ A small collection of resources for navigating the academic job market with an e
 - [Federal Jobs](https://www.usajobs.gov/): There are jobs at institutions like the Smithsonian.    
 - [Alt Academy](http://mediacommons.futureofthebook.org/alt-ac/): Great resource for considering great career moves.    
 
-### Things to Apply to in Grad School
+## Things to Apply to in Grad School
 - [HASTAC Scholars](https://www.hastac.org/initiatives/hastac-scholars)  
 - [Digital Humanities Summer Institute](http://www.dhsi.org/): Offer scholarships to attend.    
 - Any administrative role in your college or department. Seriously, run for President!    
 - [Humanities Intensive Learning and Teaching](http://dhtraining.org/hilt/)  
 - [Association of Research Libraries Digital Scholarship Institute](https://www.arl.org/focus-areas/scholarly-communication/digital-scholarship/arl-digital-scholarship-institute)  
 
-### Logistics
+## Logistics
 Most academic job searchers begin in August and run through January/February. When most interviews were held at the major conferences, this marked the end of the job season. Increasingly academic searches are using Skype to interview in the first round, so the search can extend all through the year. Most academic jobs stop searching after the January/February deadline. For academic jobs, the offer will be to start the following academic year. For jobs in Libraries and “alt-ac” sectors, the campus visit is usually followed by an offer to start immediately, and this will have to be negotiated. For either type, you are allowed to negotiate for higher salary, spousal hire, sabbatical (research jobs), etc. but don’t overdo it. Know the job. Rejections will be sent usually (but not always) but you can sometimes find out sooner through a Twitter search or through the Academic Jobs Wiki.
   
 The search follows this structure loosely. You search and apply through a portfolio service and/or a job portal. You’ll upload requested documents (cover letter, CV are guaranteed, other docs may be custom). You may receive a request for more material if they’re interested. Then, you’ll be interviewed, usually over Skype but sometimes at the major conference in your field (this is a whole other thing). If they like the interview, they’ll contact you to arrange a campus visit where you will give a prepared presentation on your research and a teaching demo. For a library position, DO NOT read a paper but give a more conversational presentation (I once was rejected from a position because I read a paper).      
@@ -56,7 +56,7 @@ The search follows this structure loosely. You search and apply through a portfo
 
 **DH Coordinator/Librarian Positions** will ask a lot of the same questions, but they will be very attuned to whether or not they think you’ll be a smug jerk because you have a PhD. Even if it’s required for the position, you’ll want to tread carefully and paint a picture of yourself as a generous and collegial collaborator who will work with faculty, students AND staff with goodwill and a sense of equality. Watch language that might unconsciously suggest you're disappointed to be leaving the tenure track. Instead, speak positively about what you would like to do in the role. If invited to campus, you'll be asked to give a presentation about the role of digital scholarship (or something along these lines). Research the existing initiatives in order to tailor your presentation, but don't be afraid to propose a vision for digital scholarship in line with their existing programs. They'll want to see that you'll fit in but also be a leader too. If they ask you to discuss some workshops you might do, paint a picture of a series that has an overarching theme. Get folks excited about DH!  
 
-### Documents to Prepare  
+## Documents to Prepare  
 - **Cover Letter**: On university letterhead. Should address research interests and publications in the first few paragraphs, teaching in the third, service in fourth. For teaching jobs, the letter will start with teaching, teaching philosophy, examples, etc. Should speak to advertisement as much as you are able to customize. Postdoc cover letter should speak to the specific project they’re hiring for by connecting your skills to the project. Are you a Medievalist who works on manuscripts applying for a text encoding project? Talk about how the two are related.  
 
 - **Curriculum Vitae**: Should address your education, academic work, service, AND skills. Start filling this out NOW and keep it updated.  
@@ -69,7 +69,7 @@ The search follows this structure loosely. You search and apply through a portfo
 
 - **Diversity Statement**: Definitely requires practice. You don’t want to sound cliché while also demonstrating your efforts to promote diversity. I try to think of real, substantial initiatives to support diversity both in course content and classroom dynamic. I also discuss in the interveiew the ways in which I am committed to diversity beyond a buzzword. If you have experiences with diversity, either because of your own life experience or because of your pedagogy, bring those in...this is an opportunity to let them get to know you as a person who cares about pluralism and equality.    
   
-  # Strategies while in Grade School 
+## Strategies while in Grade School 
 1.	Look for any positions with administrative responsibilities (postdocs love someone with admin experience).  
 2.	Look for easy-to-get CV items that don’t require a ton of work.  
 3.	Look for seminar papers or projects that you think you can rework and publish easily. Ask profs if you can write longer papers in seminar.  
@@ -86,7 +86,7 @@ The search follows this structure loosely. You search and apply through a portfo
 14.	Create calendars and spreadsheets to organize your search. This is key!  
 15. Be kind and patient with yourself. You're only one person after all...  
   
-### Other strategies
+## Other strategies
 Connect to professionals of interest for an informational interview. Are you interested in museum work or non-profits? Ask to chat with someone in an area of interest to gauge what kinds of skills you could develop while still in graduate school.  
 
 If possible, try for an internship during the summer in an area you might be interested in later.  
@@ -95,7 +95,7 @@ You can use Purdue to connect with alumni using the @GradProfCareers Twitter acc
 
 Police your web presence. Google yourself and use a SEO to improve your results if needed. I used [Brand Yourself](https://brandyourself.com/)'s free options to improve my web results. Build a web presence using tools like LinkedIn, [Academia.edu](https://www.academia.edu/), About Me, or Twitter. If possible, build a personal webpage with your work and CV and link to in all your other web platforms. Police the heck out of Twitter...it's public y'all!
 
-### Resources  
+## Resources  
 - [The Professor is In](http://theprofessorisin.com/) Includes a ton of great resources on the blog, and her book details all the elements of the job process when you’re ready.  
 - [Imagine PhD](https://www.imaginephd.com/)  
 - [Inside Higher Ed](https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin) is an exploration tool for PhDs looking for resources for alternative careers.  

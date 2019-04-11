@@ -31,8 +31,8 @@ A small collection of resources for navigating the academic job market with an e
 - [Digital Libraries Federation](https://jobs.diglib.org/): Many Digital Scholarship positions in Libraries don't require an MLIS. 
 - [American Libraries Association (see above)](https://joblist.ala.org/)  
 - [DH +Lib Jobs](https://acrl.ala.org/dh/category/jobs/)
-- [Fembot Collective] (https://fembot.adanewmedia.org/): Announcements that include cross-disciplinary, digitally-inflected job postings.
-- [National Council on Public History] (https://ncph.org/jobs/): Job Listings section includes many digitally-inflected, public history-related positions.
+- [Fembot Collective](https://fembot.adanewmedia.org/): Announcements that include cross-disciplinary, digitally-inflected job postings.
+- [National Council on Public History](https://ncph.org/jobs/): Job Listings section includes many digitally-inflected, public history-related positions.
 
 ### Jobs outside the professoriate who may want digital skills  
 - [Federal Jobs](https://www.usajobs.gov/): There are jobs at institutions like the Smithsonian and Library of Congress.    

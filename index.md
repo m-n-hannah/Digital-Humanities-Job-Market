@@ -30,10 +30,12 @@ A small collection of resources for navigating the academic job market with an e
 - Any Andrew Mellon postdoctoral fellowship. These are institution specific, see [Postdoc Bill of Rights](https://docs.google.com/document/d/1bKpiqX9LPGJsKJsLopFW5vvEgwS3koXZJQU3nv-iuWw/edit) for questions to ask.   
 - [Digital Libraries Federation](https://jobs.diglib.org/): Many Digital Scholarship positions in Libraries don't require an MLIS. 
 - [American Libraries Association (see above)](https://joblist.ala.org/)  
-- [DH +Lib Jobs](https://acrl.ala.org/dh/category/jobs/)  
+- [DH +Lib Jobs](https://acrl.ala.org/dh/category/jobs/)
+- [Fembot Collective] (https://fembot.adanewmedia.org/): Announcements that include cross-disciplinary, digitally-inflected job postings.
+- [National Council on Public History] (https://ncph.org/jobs/): Job Listings section includes many digitally-inflected, public history-related positions.
 
 ### Jobs outside the professoriate who may want digital skills  
-- [Federal Jobs](https://www.usajobs.gov/): There are jobs at institutions like the Smithsonian.    
+- [Federal Jobs](https://www.usajobs.gov/): There are jobs at institutions like the Smithsonian and Library of Congress.    
 - [Alt Academy](http://mediacommons.futureofthebook.org/alt-ac/): Resource for considering great career moves.    
 
 ## Things to Apply to in Grad School
@@ -41,7 +43,8 @@ A small collection of resources for navigating the academic job market with an e
 - [Digital Humanities Summer Institute](http://www.dhsi.org/): Offer scholarships to attend.    
 - Any administrative role in your college or department. Seriously, run for President!    
 - [Humanities Intensive Learning and Teaching](http://dhtraining.org/hilt/)  
-- [Association of Research Libraries Digital Scholarship Institute](https://www.arl.org/focus-areas/scholarly-communication/digital-scholarship/arl-digital-scholarship-institute)  
+- [Association of Research Libraries Digital Scholarship Institute](https://www.arl.org/focus-areas/scholarly-communication/digital-scholarship/arl-digital-scholarship-institute)
+- [Humanities Without Walls Pre-Doctoral Career Diversity Summer Workshops] (http://www.humanitieswithoutwalls.illinois.edu/)
 
 ## Logistics
 Most academic job searchers begin in August and run through January/February. When most interviews were held at the major conferences, this marked the end of the job season. Increasingly academic searches are using Skype to interview in the first round, so the search can extend all through the year. Most academic jobs stop searching after the January/February deadline. For academic jobs, the offer will be to start the following academic year. For jobs in Libraries and “alt-ac” sectors, the campus visit is usually followed by an offer to start immediately, and this will have to be negotiated. For either type, you are allowed to negotiate for higher salary, spousal hire, sabbatical (research jobs), etc. but don’t overdo it. Know the job. Rejections will be sent usually (but not always) but you can sometimes find out sooner through a Twitter search or through the Academic Jobs Wiki.
@@ -54,22 +57,12 @@ The search follows this structure loosely. You search and apply through a portfo
   
 **Postdocs** are going to ask you how you might fit into the larger project which they are funding. You should read the advertisement very closely and carefully and try to paint a picture about how you will fit into the project specifically. If you can do that, you will help yourself. They’ll also want to ask you about your research and you should try to connect the two if you can.  
 
-**DH Coordinator/Librarian Positions** will ask a lot of the same questions, but they will be very attuned to whether or not they think you’ll be a smug jerk because you have a PhD. Even if it’s required for the position, you’ll want to tread carefully and paint a picture of yourself as a generous and collegial collaborator who will work with faculty, students AND staff with goodwill and a sense of equality. Watch language that might unconsciously suggest you're disappointed to be leaving the tenure track. Instead, speak positively about what you would like to do in the role. If invited to campus, you'll be asked to give a presentation about the role of digital scholarship (or something along these lines). Research the existing initiatives in order to tailor your presentation, but don't be afraid to propose a vision for digital scholarship in line with their existing programs. They'll want to see that you'll fit in but also be a leader too. If they ask you to discuss some workshops you might do, paint a picture of a series that has an overarching theme. Get folks excited about DH!
-
-## Some Tips for DH/DS Jobs  
-- Don't "namedrop" all the tools you know. Instead, talk about methods with an eye toward pedagogy and best practices.
-- It's fine to mention you know Python or PHP, but, unless, the job specifically calls for heavy programmer/developer skills, focus more on how you might teach a method or a tool and why those methods are important for scholarship.
-- Don't undersell yourself.
-- Give some thought about your digital pedagogy. There are a lot of great articles/conversations about teaching in DH, and there is an entire volume of *Debates in DH* dedicated to it forthcoming. Follow the pedagogy people! 
-- Describe experiences with project management and provide concrete examples.
-- Don't assume your audience is familiar with the nitty gritty of DH. Some may know, some may not. It's your job to be clear and concise for an audience of both.
-- Be prepared to sketch some educational offerings you could provide.
-- Have a good definition for Digital Humanities. Some places ask how you define it. 
+**DH Coordinator/Librarian Positions** will ask a lot of the same questions, but they will be very attuned to whether or not they think you’ll be a smug jerk because you have a PhD. Even if it’s required for the position, you’ll want to tread carefully and paint a picture of yourself as a generous and collegial collaborator who will work with faculty, students AND staff with goodwill and a sense of equality. Watch language that might unconsciously suggest you're disappointed to be leaving the tenure track. Instead, speak positively about what you would like to do in the role. If invited to campus, you'll be asked to give a presentation about the role of digital scholarship (or something along these lines). Research the existing initiatives in order to tailor your presentation, but don't be afraid to propose a vision for digital scholarship in line with their existing programs. They'll want to see that you'll fit in but also be a leader too. If they ask you to discuss some workshops you might do, paint a picture of a series that has an overarching theme. Get folks excited about DH!  
 
 ## Documents to Prepare  
 - **Cover Letter**: On university letterhead. Should address research interests and publications in the first few paragraphs, teaching in the third, service in fourth. For teaching jobs, the letter will start with teaching, teaching philosophy, examples, etc. Should speak to advertisement as much as you are able to customize. Postdoc cover letter should speak to the specific project they’re hiring for by connecting your skills to the project. Are you a Medievalist who works on manuscripts applying for a text encoding project? Talk about how the two are related.  
 
-- **Curriculum Vitae**: Should address your education, academic work, service, AND skills. Start filling this out NOW and keep it updated. For DH positions, I especially highlight digital skills and tools with which I am familiar. I have a section that lists the kinds of tools/methods I can use, which demonstrates the kinds of workshops I can offer. Don't exaggerate your skills but don't downplay them either.   
+- **Curriculum Vitae**: Should address your education, academic work, service, AND skills. Start filling this out NOW and keep it updated.  
 
 - **Resume**: Like a vitae, but much more focused on education, work history, and skills. Focuses on career history with an eye toward specific skills. Abstract you academic specialties: technical reading, critical thinking, project management, digital literacy, digital skills, leadership, entrepreneurship, collaboration, innovation, self-motivation, responsive to critique--all job skills.   
 
@@ -83,23 +76,27 @@ The search follows this structure loosely. You search and apply through a portfo
 1.	Look for any positions with administrative responsibilities (postdocs love someone with admin experience).  
 2.	Look for easy-to-get CV items that don’t require a ton of work.  
 3.	Look for seminar papers or projects that you think you can rework and publish easily. Ask profs if you can write longer papers in seminar.  
-4.	Try to get some official recognition for DH work.  
-5.	Apply for local fellowships or awards (GET RECOGNIZED!).  
+4.	Try to get some official recognition for DH work. Find allies and advocates who are able and willing to leverage their institutional and social capital to make DH labor visible.
+5.	Apply for local fellowships or awards (GET RECOGNIZED! Find ways to make your labor visible and legible).  
 6.	Diversify, diversify, diversify. Find ways to develop skills you can leverage in other jobs. Keep a journal or spreadsheet of such things so you can apply them later.      
-7.	Talk to your advisor about “alt-ac”—if they don’t support you, change advisors if possible.  
+7.	Talk to your advisor about “alt-ac”—if they don’t support you, change advisors if possible. Alternatively, develop a network of mentors in addition to your advisor that can provide useful professional development and job search input. 
 8.	Incorporate DH into your dissertation if possible.  
-9.	Publish starting now. Pick top, peer-reviewed journals.  
-10.	Don’t be ashamed of failure. Keep trying (I had the same article rejected several times before it was published).  
-11.	Run through every open door…  
-12.	Try to teach tools and methods and content you think will be important later. You’ll need to talk about this stuff.  
-13.	Start looking at the job lists now if you can manage it. See what the “sub-fields” being requested are.  
-14.	Create calendars and spreadsheets to organize your search. This is key!  
-15. Be kind and patient with yourself. You're only one person after all...  
+9.	Publish starting now. Pick top, peer-reviewed journals. 
+10. Explore ways to use social media (specifically Twitter) as a personal learning network.
+11.	Don’t be ashamed of failure. Keep trying (I had the same article rejected several times before it was published).  
+12.	Run through every open door…  
+13.	Try to teach tools and methods and content you think will be important later. You’ll need to talk about this stuff.  
+14.	Start looking at the job lists now if you can manage it. See what the “sub-fields” being requested are.
+15. Use a free career planning tool like [Imagine PhD](https://www.imaginephd.com/) to help identify potential growth areas.
+16.	Create calendars and spreadsheets to organize your search. This is key!  
+17. Be kind and patient with yourself. PhD programs and any kind of academic/alt-ac job search are deeply embedded in structures of privilege, ableism, etc. Find ways to practice self care and build a personal support network to walk through the job search with you.  
   
 ## Other strategies
 Connect to professionals of interest for an informational interview. Are you interested in museum work or non-profits? Ask to chat with someone in an area of interest to gauge what kinds of skills you could develop while still in graduate school.  
 
-If possible, try for an internship during the summer in an area you might be interested in later.  
+Be mindful of who you're asking for time and emotional labor. Women, PoC, and contingent folks are disproportionately called on to undertake the emotional labor of mentoring and ad-hoc advising. Respect the limits of their time and resources. Look for ways to make their labor visible.
+
+If possible, try for an internship during the summer in an area you might be interested in later. Talk to your department and graduate college about possibe ways to create an internship experience on your campus, in a teaching center, archive, or digital scholarship unit.  
 
 You can use Purdue to connect with alumni using the @GradProfCareers Twitter account. Also, you can use LinkedIn to connect to people in various fields. Purdue has access to a service for connecting students to internship opportunities called MyCCO. Free to use with your PUID. Use this before June.  
 

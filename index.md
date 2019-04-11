@@ -101,7 +101,7 @@ Connect to professionals of interest for an informational interview. Are you int
 
 If possible, try for an internship during the summer in an area you might be interested in later.  
 
-You can use Purdue to connect with alumni using the @GradProfCareers Twitter account. Also, you can use LinkedIn to connect to people in various fields. Purdue has access to a service for connecting students to internship opportunities called MyCCO. Free to use with your PUID. Use this before June.  
+You can use Purdue to connect with alumni using the @GradProfCareers Twitter account. Also, you can use LinkedIn to connect to people in various fields. Purdue has access to a service for connecting students to internship opportunities called MyCCO. Free to use with your PUID. We have access to Versatile PhD UNTIL JUNE.  
 
 Police your web presence. Google yourself and use a SEO to improve your results if needed. I used [Brand Yourself](https://brandyourself.com/)'s free options to improve my web results. Build a web presence using tools like LinkedIn, [Academia.edu](https://www.academia.edu/), About Me, or Twitter. If possible, build a personal webpage with your work and CV and link to in all your other web platforms. Police the heck out of Twitter...it's public y'all!  
 

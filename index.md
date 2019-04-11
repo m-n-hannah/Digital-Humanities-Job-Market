@@ -58,7 +58,7 @@ The search follows this structure loosely. You search and apply through a portfo
 
 ## Some Tips for DH/DS Jobs  
 - Don't "namedrop" all the tools you know. Instead, talk about methods with an eye toward pedagogy and best practices.
-- It's fine to mention you know Python or PHP, but, unless, the job specifically calls for heavy programmer/developer skills, focus more on how you might teach a method or a tool and why those methods are important for scholarship.
+- It's fine to mention you know Python or PHP, but, unless the job specifically calls for heavy programmer/developer skills, focus more on how you might teach a method or a tool and why those methods are important for scholarship.
 - Don't undersell yourself.
 - Give some thought about your digital pedagogy. There are a lot of great articles/conversations about teaching in DH, and there is an entire volume of *Debates in DH* dedicated to it forthcoming. Follow the pedagogy people! 
 - Describe experiences with project management and provide concrete examples.

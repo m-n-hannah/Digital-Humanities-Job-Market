@@ -27,7 +27,7 @@ A small collection of resources for navigating the academic job market with an e
 - [Jobs.ac.uk](http://www.jobs.ac.uk/): British universities have some amazing DH departments/programs.  
 - [European Association for Digital Humanities](https://eadh.org/news/category/jobs)  
 - [Council of Libraries and Information Research (CLIR)](https://www.clir.org/fellowships/): Great postdoc opportunities.  
-- Any Andrew Mellon postdoctoral fellowship. These are institution specific, see Postdoc Bill of Rights for questions to ask.   
+- Any Andrew Mellon postdoctoral fellowship. These are institution specific, see [Postdoc Bill of Rights](https://docs.google.com/document/d/1bKpiqX9LPGJsKJsLopFW5vvEgwS3koXZJQU3nv-iuWw/edit) for questions to ask.   
 - [Digital Libraries Federation](https://jobs.diglib.org/): Many Digital Scholarship positions in Libraries don't require an MLIS. 
 - [American Libraries Association (see above)](https://joblist.ala.org/)  
 - [DH +Lib Jobs](https://acrl.ala.org/dh/category/jobs/)  
@@ -69,7 +69,7 @@ The search follows this structure loosely. You search and apply through a portfo
 
 - **Diversity Statement**: Definitely requires practice. You don’t want to sound cliché while also demonstrating your efforts to promote diversity. I try to think of real, substantial initiatives to support diversity both in course content and classroom dynamic. I also discuss in the interveiew the ways in which I am committed to diversity beyond a buzzword. If you have experiences with diversity, either because of your own life experience or because of your pedagogy, bring those in...this is an opportunity to let them get to know you as a person who cares about pluralism and equality.    
   
-## Strategies while in Grade School 
+## Strategies while in Grad School 
 1.	Look for any positions with administrative responsibilities (postdocs love someone with admin experience).  
 2.	Look for easy-to-get CV items that don’t require a ton of work.  
 3.	Look for seminar papers or projects that you think you can rework and publish easily. Ask profs if you can write longer papers in seminar.  

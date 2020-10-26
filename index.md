@@ -22,7 +22,7 @@ A small collection of resources for navigating the academic job market with an e
 
 ### Digital Humanities Jobs/Postdocs (Outside Discipline)  
 - [Digital Humanities Now](http://digitalhumanitiesnow.org/category/news/job/)  
-- Google, seriously  
+- Google, seriously. Set alerts for "Digital Humanities jobs."  
 - [Academic Jobs EU](http://www.academicjobseu.com/default.asp): European universities often invest more heavily in DH departments/programs.    
 - [Jobs.ac.uk](http://www.jobs.ac.uk/): British universities have some amazing DH departments/programs.  
 - [European Association for Digital Humanities](https://eadh.org/news/category/jobs)  

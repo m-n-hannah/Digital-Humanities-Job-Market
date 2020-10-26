@@ -34,7 +34,8 @@ A small collection of resources for navigating the academic job market with an e
 
 ### Jobs outside the professoriate who may want digital skills  
 - [Federal Jobs](https://www.usajobs.gov/): There are jobs at institutions like the Smithsonian.    
-- [Alt Academy](http://mediacommons.futureofthebook.org/alt-ac/): Resource for considering great career moves.    
+- [Alt Academy](http://mediacommons.futureofthebook.org/alt-ac/): Resource for considering great career moves.
+- [Theory Meets Praxis](https://www.theorymeetspraxis.com/): Job board for careers outside tenure-track faculty roles or for non-academic jobs.
 
 ## Things to Apply to in Grad School
 - [HASTAC Scholars](https://www.hastac.org/initiatives/hastac-scholars)  

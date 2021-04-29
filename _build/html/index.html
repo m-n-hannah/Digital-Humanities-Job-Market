@@ -1,0 +1,425 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Digital Humanities and the Job Market &#8212; My Jupyter Book</title>
+    
+  <link href="_static/css/theme.css" rel="stylesheet" />
+  <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.acff12b8f9c144ce68a297486a2fa670.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="#">
+      
+      
+      <h1 class="site-logo" id="site-title">My Jupyter Book</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1 current">
+  <a class="reference internal" href="#">
+   Digital Humanities and the Job Market
+  </a>
+ </li>
+</ul>
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/index.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Digital Humanities and the Job Market
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#about">
+   About
+  </a>
+  <ul class="visible nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#places-to-look-for-positions">
+     Places to Look for Positions
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#academic-faculty-positions-with-dh-subfields">
+       Academic Faculty Positions with DH Subfields
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#digital-humanities-jobs-postdocs-outside-discipline">
+       Digital Humanities Jobs/Postdocs (Outside Discipline)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#jobs-outside-the-professoriate-who-may-want-digital-skills">
+       Jobs outside the professoriate who may want digital skills
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#things-to-apply-to-in-grad-school">
+     Things to Apply to in Grad School
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#logistics">
+     Logistics
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#some-tips-for-dh-ds-jobs">
+     Some Tips for DH/DS Jobs
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#documents-to-prepare">
+     Documents to Prepare
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#strategies-while-in-grad-school">
+     Strategies while in Grad School
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#other-strategies">
+     Other strategies
+    </a>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#resources">
+     Resources
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="digital-humanities-and-the-job-market">
+<h1>Digital Humanities and the Job Market<a class="headerlink" href="#digital-humanities-and-the-job-market" title="Permalink to this headline">¶</a></h1>
+</div>
+<div class="section" id="about">
+<h1>About<a class="headerlink" href="#about" title="Permalink to this headline">¶</a></h1>
+<p>A small collection of resources for navigating the academic job market with an eye toward Digital Humanities or Digital Scholarship positions. This is an ongoing collection begun in Fall 2019 for ILS 695: Introducing Digital Humanities, taught at Purdue University, but I will be adding to this page over time.</p>
+<div class="section" id="places-to-look-for-positions">
+<h2>Places to Look for Positions<a class="headerlink" href="#places-to-look-for-positions" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="academic-faculty-positions-with-dh-subfields">
+<h3>Academic Faculty Positions with DH Subfields<a class="headerlink" href="#academic-faculty-positions-with-dh-subfields" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.mla.org/Resources/Career/Job-Information-List">Modern Language Association</a></p></li>
+<li><p><a class="reference external" href="https://careers.historians.org/jobs">American Historical Association Job List</a></p></li>
+<li><p><a class="reference external" href="https://www.natcom.org/academic-professional-resources/nca-career-center/advertise-nca/communication-research-and-theory">CRTNET for Communications</a></p></li>
+<li><p><a class="reference external" href="https://www.higheredjobs.com/">Higher Ed Jobs</a></p></li>
+<li><p><a class="reference external" href="https://chroniclevitae.com/job_search/new">Chronicle Vitae</a></p></li>
+<li><p><a class="reference external" href="https://www.h-net.org/">H-Net</a></p></li>
+<li><p><a class="reference external" href="http://www.academicjobseu.com/default.asp">Academic Jobs EU</a></p></li>
+<li><p><a class="reference external" href="http://www.jobs.ac.uk/">Jobs.ac.uk (British Jobs)</a></p></li>
+<li><p><a class="reference external" href="https://ncph.org/jobs/">National Council on Public History</a></p></li>
+<li><p><a class="reference external" href="https://careers.oah.org/jobs">Organization of American Historians</a></p></li>
+<li><p><a class="reference external" href="http://academicjobs.wikia.com/wiki/Academic_Jobs_Wiki">Academic Jobs Wiki (You can also check on the status of jobs here i.e. have they requested materials, phone interviews, campus visits etc. Can take the waiting out)</a></p></li>
+<li><p><a class="reference external" href="http://www.academiccareers.com/">AcademicCareers.com</a></p></li>
+<li><p><a class="reference external" href="https://jobs.edu.eu/">Academic Jobs Europe</a></p></li>
+</ul>
+</div>
+<div class="section" id="digital-humanities-jobs-postdocs-outside-discipline">
+<h3>Digital Humanities Jobs/Postdocs (Outside Discipline)<a class="headerlink" href="#digital-humanities-jobs-postdocs-outside-discipline" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="http://digitalhumanitiesnow.org/category/news/job/">Digital Humanities Now</a></p></li>
+<li><p>Google, seriously. Set alerts for “Digital Humanities jobs.”</p></li>
+<li><p><a class="reference external" href="http://www.academicjobseu.com/default.asp">Academic Jobs EU</a>: European universities often invest more heavily in DH departments/programs.</p></li>
+<li><p><a class="reference external" href="http://www.jobs.ac.uk/">Jobs.ac.uk</a>: British universities have some amazing DH departments/programs.</p></li>
+<li><p><a class="reference external" href="https://eadh.org/news/category/jobs">European Association for Digital Humanities</a></p></li>
+<li><p><a class="reference external" href="https://www.clir.org/fellowships/">Council of Libraries and Information Research (CLIR)</a>: Great postdoc opportunities.</p></li>
+<li><p>Any Andrew Mellon postdoctoral fellowship. These are institution specific, see <a class="reference external" href="https://docs.google.com/document/d/1bKpiqX9LPGJsKJsLopFW5vvEgwS3koXZJQU3nv-iuWw/edit">Postdoc Bill of Rights</a> for questions to ask.</p></li>
+<li><p><a class="reference external" href="https://jobs.diglib.org/">Digital Libraries Federation</a>: Many Digital Scholarship positions in Libraries don’t require an MLIS.</p></li>
+<li><p><a class="reference external" href="https://joblist.ala.org/">American Libraries Association (see above)</a></p></li>
+<li><p><a class="reference external" href="https://acrl.ala.org/dh/category/jobs/">DH +Lib Jobs</a></p></li>
+</ul>
+</div>
+<div class="section" id="jobs-outside-the-professoriate-who-may-want-digital-skills">
+<h3>Jobs outside the professoriate who may want digital skills<a class="headerlink" href="#jobs-outside-the-professoriate-who-may-want-digital-skills" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.usajobs.gov/">Federal Jobs</a>: There are jobs at institutions like the Smithsonian.</p></li>
+<li><p><a class="reference external" href="http://mediacommons.futureofthebook.org/alt-ac/">Alt Academy</a>: Resource for considering great career moves.</p></li>
+<li><p><a class="reference external" href="https://www.theorymeetspraxis.com/">Theory Meets Praxis</a>: Job board for careers outside tenure-track faculty roles or for non-academic jobs.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="things-to-apply-to-in-grad-school">
+<h2>Things to Apply to in Grad School<a class="headerlink" href="#things-to-apply-to-in-grad-school" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.hastac.org/initiatives/hastac-scholars">HASTAC Scholars</a></p></li>
+<li><p><a class="reference external" href="http://www.dhsi.org/">Digital Humanities Summer Institute</a>: Offer scholarships to attend.</p></li>
+<li><p>Any administrative role in your college or department. Seriously, run for President!</p></li>
+<li><p><a class="reference external" href="http://dhtraining.org/hilt/">Humanities Intensive Learning and Teaching</a></p></li>
+<li><p><a class="reference external" href="https://www.arl.org/focus-areas/scholarly-communication/digital-scholarship/arl-digital-scholarship-institute">Association of Research Libraries Digital Scholarship Institute</a></p></li>
+</ul>
+</div>
+<div class="section" id="logistics">
+<h2>Logistics<a class="headerlink" href="#logistics" title="Permalink to this headline">¶</a></h2>
+<p>Most academic job searchers begin in August and run through January/February. When most interviews were held at the major conferences, this marked the end of the job season. Increasingly academic searches are using Skype to interview in the first round, so the search can extend all through the year. Most academic jobs stop searching after the January/February deadline. For academic jobs, the offer will be to start the following academic year. For jobs in Libraries and “alt-ac” sectors, the campus visit is usually followed by an offer to start immediately, and this will have to be negotiated. For either type, you are allowed to negotiate for higher salary, spousal hire, sabbatical (research jobs), etc. but don’t overdo it. Know the job. Rejections will be sent usually (but not always) but you can sometimes find out sooner through a Twitter search or through the Academic Jobs Wiki.</p>
+<p>The search follows this structure loosely. You search and apply through a portfolio service and/or a job portal. You’ll upload requested documents (cover letter, CV are guaranteed, other docs may be custom). You may receive a request for more material if they’re interested. Then, you’ll be interviewed, usually over Skype but sometimes at the major conference in your field (this is a whole other thing). If they like the interview, they’ll contact you to arrange a campus visit where you will give a prepared presentation on your research and a teaching demo. For a library position, DO NOT read a paper but give a more conversational presentation (I once was rejected from a position because I read a paper).</p>
+<ul class="simple">
+<li><p><strong>Portfolio service</strong>: Interfolio is the standard. If the university to which you are applying is using Interfolio, you won’t pay anything, but if they aren’t, you’ll have to pay to have your materials shipped physically. Chronicle’s Vitae service is free if you ship your materials to an email address and can help defray the costs. This is increasingly the norm.</p></li>
+<li><p><strong>Interviewing Strategies</strong>: The web interview is very weird. Make sure you have enough lighting and an appropriate background. Test the video and sound and be sure you understand the interface they’re using (I’ve done Skype, WebEx, and others) so you can troubleshoot on your end. Be prepared for things to go sideways (I’ve done interviews where I couldn’t see anything because they couldn’t figure out the camera).</p></li>
+<li><p>When asked a question, jot down notes and take a moment before answering. I always try to answer in the following format: theoretical, big picture, abstract; concrete example or two; summing up the theory; suggest we can follow up if they’d like. DO not talk too much but don’t talk too little either. For research jobs, the first question will likely be about your dissertation. You want to have an idea for turning it into a book and for future research. For teaching positions, they’ll want to ask about your teaching philosophy, approach to plagiarism, engagement with students etc. They’ll also likely ask about diversity, work balance, and possible courses you’d design. Have answers to these questions! I usually type out a crib sheet.</p></li>
+<li><p><strong>Digital Humanities Jobs/Postdocs Specifics</strong>: DH positions will ask about some specific aspects of DH that may surpise you. They will be trying to see how you collaborate with a team, how you manage yourself as a self-starter, how you go about learning things you don’t know, and the ways in which you might organize events such as workshops etc. Having a strong sense for the kinds of things you might do will help. You should also be prepared to talk about project management if you have experience with it, even if that means describing working on your own project. Having a clear sense for the lifecycle of a project would be very useful, and you should try to demonstrate how organized you can be. I received questions about program management software a lot so look into Trello, Basecamp, etc. Avoid any job that is pitched for “Developers” (unless you have strong programming/web building skills). Look for positions that want you to build a program, collaborate with faculty, and organize workshops (Coordinator, Strategist, Specialist).</p></li>
+</ul>
+<p><strong>Postdocs</strong> are going to ask you how you might fit into the larger project which they are funding. You should read the advertisement very closely and carefully and try to paint a picture about how you will fit into the project specifically. If you can do that, you will help yourself. They’ll also want to ask you about your research and you should try to connect the two if you can.</p>
+<p><strong>DH Coordinator/Librarian Positions</strong> will ask a lot of the same questions, but they will be very attuned to whether or not they think you’ll be a smug jerk because you have a PhD. Even if it’s required for the position, you’ll want to tread carefully and paint a picture of yourself as a generous and collegial collaborator who will work with faculty, students AND staff with goodwill and a sense of equality. Watch language that might unconsciously suggest you’re disappointed to be leaving the tenure track. Instead, speak positively about what you would like to do in the role. When preparing your cover letter, be sure to adapt your letter to the job at hand. They won’t want to hear the nitty gritty about your dissertation (indeed that may be a warning) but will want to hear about how you plan to teach DH/DS in their unit. Research the specifics of the post: some libraries teach only workshops or one-shots, others may offer for-credit courses. Read the job ad carefully.</p>
+<p>If invited to campus, you’ll be asked to give a presentation about the role of digital scholarship (or something along these lines). Research the existing initiatives in order to tailor your presentation, but don’t be afraid to propose a vision for digital scholarship in line with their existing programs. They’ll want to see that you’ll fit in but also be a leader too. If they ask you to discuss some workshops you might do, paint a picture of a series that has an overarching theme. Get folks excited about DH!</p>
+<p>Whatever you do for your presentation, DO NOT read it. Libraries want you to adopt a more conversational role. I tended to put together slides with minimal text (think bullet points) that would guide me through my points. If you cannot imagine giving this kind of talk, try drafting a talk that you read through several times and then reduce to bullet points on a note card. This way, you will give the illusion of talking through your slides but without the dangers of going “without a net.”</p>
+</div>
+<div class="section" id="some-tips-for-dh-ds-jobs">
+<h2>Some Tips for DH/DS Jobs<a class="headerlink" href="#some-tips-for-dh-ds-jobs" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Don’t “namedrop” all the tools you know. Instead, talk about methods with an eye toward pedagogy and best practices.</p></li>
+<li><p>It’s fine to mention you know Python or PHP, but, unless the job specifically calls for heavy programmer/developer skills, focus more on how you might teach a method or a tool and why those methods are important for scholarship.</p></li>
+<li><p>Don’t undersell yourself.</p></li>
+<li><p>Give some thought about your digital pedagogy. There are a lot of great articles/conversations about teaching in DH, and there is an entire volume of <em>Debates in DH</em> dedicated to it forthcoming. Follow the pedagogy people!</p></li>
+<li><p>Describe experiences with project management and provide concrete examples.</p></li>
+<li><p>Don’t assume your audience is familiar with the nitty gritty of DH. Some may know, some may not. It’s your job to be clear and concise for an audience of both.</p></li>
+<li><p>Be prepared to sketch some educational offerings you could provide.</p></li>
+<li><p>Have a good definition for Digital Humanities. Some places ask how you define it.</p></li>
+</ul>
+</div>
+<div class="section" id="documents-to-prepare">
+<h2>Documents to Prepare<a class="headerlink" href="#documents-to-prepare" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><strong>Cover Letter</strong>: On university letterhead. Should address research interests and publications in the first few paragraphs, teaching in the third, service in fourth. For teaching jobs, the letter will start with teaching, teaching philosophy, examples, etc. Should speak to advertisement as much as you are able to customize. Postdoc cover letter should speak to the specific project they’re hiring for by connecting your skills to the project. Are you a Medievalist who works on manuscripts applying for a text encoding project? Talk about how the two are related.</p></li>
+<li><p><strong>Curriculum Vitae</strong>: Should address your education, academic work, service, AND skills. Start filling this out NOW and keep it updated. For DH positions, I especially highlight digital skills and tools with which I am familiar. I have a section that lists the kinds of tools/methods I can use, which demonstrates the kinds of workshops I can offer. Don’t exaggerate your skills but don’t downplay them either.</p></li>
+<li><p><strong>Resume</strong>: Like a vitae, but much more focused on education, work history, and skills. Focuses on career history with an eye toward specific skills. Abstract you academic specialties: technical reading, critical thinking, project management, digital literacy, digital skills, leadership, entrepreneurship, collaboration, innovation, self-motivation, responsive to critique–all job skills.</p></li>
+<li><p><strong>Research Statement</strong>: Modify this document to focus on digital tools/methods when applying for DH jobs. I usually tried to paint a picture of myself as a scholar with a coherent research agenda.</p></li>
+<li><p><strong>Teaching Statement</strong>: For DH jobs, they will want to see that you’re thinking about implanting digital tools and methods into your courses in a substantial way. If you teach intro-level courses now, think about implementing digital assignments into the course so you can talk specifically about your experiences.</p></li>
+<li><p><strong>Diversity Statement</strong>: Definitely requires practice. You don’t want to sound cliché while also demonstrating your efforts to promote diversity. I try to think of real, substantial initiatives to support diversity both in course content and classroom dynamic. I also discuss in the interveiew the ways in which I am committed to diversity beyond a buzzword. If you have experiences with diversity, either because of your own life experience or because of your pedagogy, bring those in…this is an opportunity to let them get to know you as a person who cares about pluralism and equality.</p></li>
+</ul>
+</div>
+<div class="section" id="strategies-while-in-grad-school">
+<h2>Strategies while in Grad School<a class="headerlink" href="#strategies-while-in-grad-school" title="Permalink to this headline">¶</a></h2>
+<ol class="simple">
+<li><p>Look for any positions with administrative responsibilities (postdocs love someone with admin experience).</p></li>
+<li><p>Look for easy-to-get CV items that don’t require a ton of work.</p></li>
+<li><p>Look for seminar papers or projects that you think you can rework and publish easily. Ask profs if you can write longer papers in seminar.</p></li>
+<li><p>Try to get some official recognition for DH work.</p></li>
+<li><p>Apply for local fellowships or awards (GET RECOGNIZED!).</p></li>
+<li><p>Diversify, diversify, diversify. Find ways to develop skills you can leverage in other jobs. Keep a journal or spreadsheet of such things so you can apply them later.</p></li>
+<li><p>Talk to your advisor about “alt-ac”—if they don’t support you, change advisors if possible.</p></li>
+<li><p>Incorporate DH into your dissertation if possible.</p></li>
+<li><p>Publish starting now. Pick top, peer-reviewed journals.</p></li>
+<li><p>Don’t be ashamed of failure. Keep trying (I had the same article rejected several times before it was published).</p></li>
+<li><p>Run through every open door…</p></li>
+<li><p>Try to teach tools and methods and content you think will be important later. You’ll need to talk about this stuff.</p></li>
+<li><p>Start looking at the job lists now if you can manage it. See what the “sub-fields” being requested are.</p></li>
+<li><p>Create calendars and spreadsheets to organize your search. This is key!</p></li>
+<li><p>Be kind and patient with yourself. You’re only one person after all…</p></li>
+</ol>
+</div>
+<div class="section" id="other-strategies">
+<h2>Other strategies<a class="headerlink" href="#other-strategies" title="Permalink to this headline">¶</a></h2>
+<p>Connect to professionals of interest for an informational interview. Are you interested in museum work or non-profits? Ask to chat with someone in an area of interest to gauge what kinds of skills you could develop while still in graduate school.</p>
+<p>If possible, try for an internship during the summer in an area you might be interested in later.</p>
+<p>You can use Purdue to connect with alumni using the &#64;GradProfCareers Twitter account. Also, you can use LinkedIn to connect to people in various fields. Purdue has access to a service for connecting students to internship opportunities called MyCCO. Free to use with your PUID. We have access to Versatile PhD UNTIL JUNE.</p>
+<p>Police your web presence. Google yourself and use a SEO to improve your results if needed. I used <a class="reference external" href="https://brandyourself.com/">Brand Yourself</a>’s free options to improve my web results. Build a web presence using tools like LinkedIn, <a class="reference external" href="https://www.academia.edu/">Academia.edu</a>, About Me, or Twitter. If possible, build a personal webpage with your work and CV and link to in all your other web platforms. Police the heck out of Twitter…it’s public y’all!</p>
+<p>Get organized. Calendar the heck out of your search and use a spreadsheet to track required documnents, deadlines, follow-ups, etc.</p>
+</div>
+<div class="section" id="resources">
+<h2>Resources<a class="headerlink" href="#resources" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://theprofessorisin.com/">The Professor is In</a> Includes a ton of great resources on the blog, and her book details all the elements of the job process when you’re ready.</p></li>
+<li><p><a class="reference external" href="https://www.imaginephd.com/">Imagine PhD</a></p></li>
+<li><p><a class="reference external" href="https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin">Inside Higher Ed</a> is an exploration tool for PhDs looking for resources for alternative careers.</p></li>
+<li><p><a class="reference external" href="https://docs.google.com/document/d/1bKpiqX9LPGJsKJsLopFW5vvEgwS3koXZJQU3nv-iuWw/edit">Postdoctoral Bill of Rights</a> is a brand new document outlining some things to consider and ask about when considering a postdoc offer.</p></li>
+</ul>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By The Jupyter Book community<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>

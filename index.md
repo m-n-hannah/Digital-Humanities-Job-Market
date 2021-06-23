@@ -117,3 +117,4 @@ Get organized. Calendar the heck out of your search and use a spreadsheet to tra
 - [Imagine PhD](https://www.imaginephd.com/)  
 - [Inside Higher Ed](https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin) is an exploration tool for PhDs looking for resources for alternative careers.  
 - [Postdoctoral Bill of Rights](https://docs.google.com/document/d/1bKpiqX9LPGJsKJsLopFW5vvEgwS3koXZJQU3nv-iuWw/edit) is a brand new document outlining some things to consider and ask about when considering a postdoc offer.
+- [Digital Humanities in the iSchool](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24535) is a recent article compiling the predominant needs and skills among iSchools hiring and teaching DH. Useful for understanding some areas to emphasize.
